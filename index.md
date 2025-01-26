@@ -28,7 +28,9 @@ Beliefs and Other things.
 
 ### Policy Articles
 
-[Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html) (with R. Datsenko, 2024)
+[Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html)  <br>
+(with R. Datsenko, 2024) <br>
+[Replication codes](https://github.com/RDatsenko/Country-Specific-Effects-of-Euro-Area-Monetary-Policy-The-Role-of-Sectoral-Differences)
 
 
 ### Software
