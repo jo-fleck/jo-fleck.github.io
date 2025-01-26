@@ -30,21 +30,17 @@ Beliefs and Other things.
 
 ### Software
 
-[gini_julia](https://github.com/Jo-Fleck/gini_julia) Computing Gini Coefficients in Julia
+[gini.jl](https://github.com/jo-fleck/gini_julia) Computing Gini Coefficients in Julia
 
 [Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) Connecting Julia and NBER TAXSIM (version 32)
 
-Connect Matlab to Taxsim32 via Stata
-Prepare Taxsim32 input data in Matlab and obtain imputed taxes using a simple function call
+[taxsim32_stata.m](https://github.com/jo-fleck/Matlab_Taxsim32_Stata) Connect Matlab to Taxsim32 via Stata
 
-Moment Preserving Winsorizing in Stata
-Winsorizing procedure which respects boundary conditions on the variables’ moments
+[US_UIBen.m](https://github.com/jo-fleck/US_UIBen) Matlab function to impute unemployment benefits in US states
 
-UIBen.m
-Matlab function to impute unemployment benefits in US states
+[textable.m](https://github.com/jo-fleck/textable) Matlab function to export matrices as tex tables
 
-textable.m
-Matlab function to export matrices as tex tables
+[winsor_moment_preserving.do](https://github.com/jo-fleck/moment_preserving_winsor) Moment Preserving Winsorizing in Stata
 
 
 ### Discussions
