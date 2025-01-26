@@ -22,6 +22,27 @@ Beliefs and Other things.
 [Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html) (with R. Datsenko, 2024)
 
 
+### Software
+
+Gini Julia
+Computing Gini Coefficients with Julia
+
+Taxsim.jl
+Connecting Julia and NBER TAXSIM (version 32)
+
+Connect Matlab to Taxsim32 via Stata
+Prepare Taxsim32 input data in Matlab and obtain imputed taxes using a simple function call
+
+Moment Preserving Winsorizing in Stata
+Winsorizing procedure which respects boundary conditions on the variables’ moments
+
+UIBen.m
+Matlab function to impute unemployment benefits in US states
+
+textable.m
+Matlab function to export matrices as tex tables
+
+
 ### Discussions
 
 [The Impact of Inequality on Property Taxation in Norway](/files/Borge_Krehic_discussion_JFleck.pdf) (Borge and Krehic, 2021)
