@@ -10,7 +10,8 @@ My main research interests are macroeconomics and public finance. I am also inte
 ### Working Papers
 
 [Fiscal Progressivity of the U.S. Federal and State Governments](/files/FHSV_Dec17_2024.pdf) (with J. Heathcote, K. Storesletten, G. Violante, 2025) <br>
-NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [earlier version](/files/FHSV_Sept_2021.pdf) 
+[Main results](https://github.com/jo-fleck/federal_state_progressivity) <br>
+NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [first version](/files/FHSV_Sept_2021.pdf) 
 
 ### Work in Progress
 
