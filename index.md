@@ -9,12 +9,15 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 ### Working Papers
 
-[Fiscal Progressivity of the U.S. Federal and State Governments](/files/FHSV_Dec17_2024.pdf) (with J. Heathcote, K. Storesletten, G. Violante, 2025) <br>
+[Fiscal Progressivity of the U.S. Federal and State Governments](/files/FHSV_Dec17_2024.pdf) <br>
+(with J. Heathcote, K. Storesletten, G. Violante, 2025) <br>
 [Main results](https://github.com/jo-fleck/federal_state_progressivity), NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [first version](/files/FHSV_Sept_2021.pdf) 
 
-[Income Insurance in the Fifty Nifty: Evidence from America's Working Poor](/files/us_insurance.pdf) (with C. Simpson-Bell)
+[Income Insurance in the Fifty Nifty: Evidence from America's Working Poor](/files/us_insurance.pdf) <br>
+(with C. Simpson-Bell, 2021)
 
-[Beliefs, Precautionary Savings and Home Ownership](/files/culture_assets.pdf) (with A. Monninger, 2020) <br>
+[Beliefs, Precautionary Savings and Home Ownership](/files/culture_assets.pdf)  <br>
+(with A. Monninger, 2020) <br>
 [ECB WP](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2457~f88451401b.en.pdf), [VoxEU](https://cepr.org/voxeu/columns/how-portfolios-vary-across-europe-role-beliefs-social-and-communal-insurance), [Media](https://www.finanzen.ch/nachrichten/aktien/studie-deutsche-vertrauen-bei-hauskauf-nicht-auf-hilfe-des-staats-1029530211)
 
 
