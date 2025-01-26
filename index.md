@@ -19,12 +19,12 @@ Beliefs and Other things.
 
 ### Policy Articles
 
-Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences
+[Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html) (with R. Datsenko, 2024)
 
 
 ### Discussions
 
-[The Impact of Inequality on Property Taxation in Norway](/files/Borge_Krehic_discussion_JFleck.pdf) Borge and Krehic (2021)
+[The Impact of Inequality on Property Taxation in Norway](/files/Borge_Krehic_discussion_JFleck.pdf) (Borge and Krehic, 2021)
 
 Gender, Electoral Incentives, and Crisis Response: Evidence from Brazilian Mayors, Chauvin and Tricaud (2021)
 
