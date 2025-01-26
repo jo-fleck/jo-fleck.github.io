@@ -10,8 +10,7 @@ My main research interests are macroeconomics and public finance. I am also inte
 ### Working Papers
 
 [Fiscal Progressivity of the U.S. Federal and State Governments](/files/FHSV_Dec17_2024.pdf) (with J. Heathcote, K. Storesletten, G. Violante, 2025) <br>
-[Main results](https://github.com/jo-fleck/federal_state_progressivity) <br>
-NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [first version](/files/FHSV_Sept_2021.pdf) 
+[Main results](https://github.com/jo-fleck/federal_state_progressivity), NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [first version](/files/FHSV_Sept_2021.pdf) 
 
 [Income Insurance in the Fifty Nifty: Evidence from America's Working Poor](/files/us_insurance.pdf) (with C. Simpson-Bell)
 
@@ -31,11 +30,9 @@ Beliefs and Other things.
 
 ### Software
 
-Gini Julia
-Computing Gini Coefficients with Julia
+[gini_julia](https://github.com/Jo-Fleck/gini_julia) Computing Gini Coefficients in Julia
 
-Taxsim.jl
-Connecting Julia and NBER TAXSIM (version 32)
+[Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) Connecting Julia and NBER TAXSIM (version 32)
 
 Connect Matlab to Taxsim32 via Stata
 Prepare Taxsim32 input data in Matlab and obtain imputed taxes using a simple function call
