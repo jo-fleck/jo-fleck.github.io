@@ -13,17 +13,30 @@ My main research interests are macroeconomics and public finance. I am also inte
 (with J. Heathcote, K. Storesletten, G. Violante, 2025) <br>
 [Main results](https://github.com/jo-fleck/federal_state_progressivity), NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [first version](/files/FHSV_Sept_2021.pdf) 
 
+[Structural Transformation and the Efficacy of Monetary Policy](tmp) <br>
+(with R. Datsenko, 2024)
+
+State Tax and Transfer Progressivity and the Household Consumption Response to Fiscal Stimulus <br>
+
 [Income Insurance in the Fifty Nifty: Evidence from America's Working Poor](/files/us_insurance.pdf) <br>
 (with C. Simpson-Bell, 2021)
 
-[Beliefs, Precautionary Savings and Home Ownership](/files/culture_assets.pdf)  <br>
+[Beliefs, Precautionary Savings and Home Ownership](/files/culture_assets.pdf) <br>
 (with A. Monninger, 2020) <br>
 [ECB WP](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2457~f88451401b.en.pdf), [VoxEU](https://cepr.org/voxeu/columns/how-portfolios-vary-across-europe-role-beliefs-social-and-communal-insurance), [Media](https://www.finanzen.ch/nachrichten/aktien/studie-deutsche-vertrauen-bei-hauskauf-nicht-auf-hilfe-des-staats-1029530211)
 
 
 ### Work in Progress
 
-Beliefs and Other things.
+The Real-Time State of European Household Finances <br>
+(with M. Ampudia and J. Perez, 2023)
+
+[The Gravity of Log](tmp) <br>
+(with R. Datsenko, A. Reiremo, 2021)
+
+Machine Learning Missing European Household Wealth
+
+Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 
 ### Policy Articles
