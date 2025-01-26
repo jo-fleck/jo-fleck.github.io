@@ -24,7 +24,7 @@ Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Diff
 
 ### Discussions
 
-[The Impact of Inequality on Property Taxation in Norway, Borge and Krehic (2021)](/files/Borge_Krehic_discussion_JFleck.pdf)
+[The Impact of Inequality on Property Taxation in Norway] Borge and Krehic (2021)(/files/Borge_Krehic_discussion_JFleck.pdf)
 
 Gender, Electoral Incentives, and Crisis Response: Evidence from Brazilian Mayors, Chauvin and Tricaud (2021)
 
