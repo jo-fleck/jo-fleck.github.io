@@ -6,6 +6,7 @@ I work at the Board of Governors of the Federal Reserve System in Washington, DC
 
 My main research interests are macroeconomics and public finance. I am also interested in household finance and machine learning.
 
+*The views expressed on this website are my own. They should not be interpreted as reflecting the views of the Board of Governors of the Federal Reserve System or of anyone else associated with the Federal Reserve System.*
 
 ### Working Papers
 
