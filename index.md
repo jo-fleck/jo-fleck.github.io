@@ -61,7 +61,7 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 [winsor_moment_preserving.do](https://github.com/jo-fleck/moment_preserving_winsor) Moment Preserving Winsorizing in Stata
 
-[Warming Up to Dynare](/files/Primer_LSM_Dynare.pdf) Flattens the Dynare learning curve for students familiar with global solution methods
+[Warming Up to Dynare](/files/Primer_LSM_Dynare.pdf) Flattens the Dynare learning curve
 
 ### Discussions
 
