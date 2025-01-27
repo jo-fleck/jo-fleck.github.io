@@ -9,9 +9,9 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 ### Working Papers
 
-[Fiscal Progressivity of the U.S. Federal and State Governments](/files/FHSV_Dec17_2024.pdf) <br>
+[Fiscal Progressivity of the U.S. Federal and State Governments](https://www.nber.org/system/files/working_papers/w33385/w33385.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED) <br>
 (with J. Heathcote, K. Storesletten, G. Violante, 2025) <br>
-[Main results](https://github.com/jo-fleck/federal_state_progressivity), NBER WP, CEPR WP, [FRB Minneapolis WP](https://www.minneapolisfed.org/research/staff-reports/fiscal-progressivity-of-the-us-federal-and-state-governments), [first version](/files/FHSV_Sept_2021.pdf) 
+[Main results](https://github.com/jo-fleck/federal_state_progressivity), [first version](/files/FHSV_Sept_2021.pdf) 
 
 [Structural Transformation and the Efficacy of Monetary Policy](tmp) <br>
 (with R. Datsenko, 2024)
@@ -28,7 +28,7 @@ State Tax and Transfer Progressivity and the Household Consumption Response to F
 
 ### Work in Progress
 
-The Real-Time State of European Household Finances <br>
+Locked Down, Saved Up? <br>
 (with M. Ampudia and J. Perez, 2023)
 
 [The Gravity of Log](tmp) <br>
