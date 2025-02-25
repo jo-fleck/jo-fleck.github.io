@@ -53,7 +53,7 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 [gini.jl](https://github.com/jo-fleck/gini_julia) Computing Gini Coefficients in Julia
 
-[Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) Connecting Julia and NBER TAXSIM (version 32) [Video Tutorial](https://www.youtube.com/watch?v=dc3iunpMA1o)
+[Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) Connecting Julia and NBER TAXSIM (version 32) [Video tutorial](https://www.youtube.com/watch?v=dc3iunpMA1o)
 
 [taxsim32_stata.m](https://github.com/jo-fleck/Matlab_Taxsim32_Stata) Connect Matlab to Taxsim32 via Stata
 
