@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I work at the Board of Governors of the Federal Reserve System in Washington, DC.
+I work at the Board of Governors of the Federal Reserve System.
 
 My main research interests are macroeconomics and public finance. I am also interested in household finance and machine learning.
 
