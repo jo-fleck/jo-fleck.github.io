@@ -68,6 +68,8 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 ### Discussions
 
+[Aggregate Implications of Corporate Taxation over the Business Cycle](/files/discussions/Chen_discussion_Fleck.pdf) (Chen, 2025)
+
 [Contrasting the Local and National Demographic Incidence of Local Labor Demand Shocks](/files/discussions/Fleck_discussion_UEA_2024_final.pdf) (Mansfied, 2024)
 
 [How Much Tax Do the Rich Really Pay? Evidence from the UK](/files/discussions/Advani_etal_discussion_Johannes_Fleck.pdf) (Advani, Hughson and Summers, 2023)
