@@ -95,3 +95,5 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 [Towards the Fiscalization of the European Union? Lessons from the Early United States](/files/discussions/Wozniakowski_comments_JFleck.pdf) (Woźniakowski, 2016)
 
 [Collective Action Clauses and Sovereign Debt Restructuring in the Euro Area](/files/discussions/Martinelli_discussion_JFleck.pdf) (Martinelli, 2015)
+
+*This website uses [Simple Analytics](https://www.simpleanalytics.com).*
