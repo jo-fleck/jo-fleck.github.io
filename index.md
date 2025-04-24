@@ -42,7 +42,7 @@ Machine Learning Missing European Household Wealth
 Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 
-### Policy Articles
+### Research Notes
 
 [Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html)  <br>
 (with R. Datsenko, 2024) <br>
