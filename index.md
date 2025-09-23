@@ -4,7 +4,7 @@ layout: default
 
 I work at the Board of Governors of the Federal Reserve System.
 
-My main research interests are macroeconomics and public finance. I am also interested in household finance and machine learning.
+My main research interests are macroeconomics and public finance. I am also interested in household finance and economic measurement.
 
 *The views expressed here are my own and do not necessarily reflect those of the Board of Governors of the Federal Reserve System.*
 
