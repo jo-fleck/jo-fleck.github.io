@@ -96,7 +96,6 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 [Collective Action Clauses and Sovereign Debt Restructuring in the Euro Area](/files/discussions/Martinelli_discussion_JFleck.pdf) (Martinelli, 2015)
 
-
-<br/><br/>
+<br/>
 
 *This website uses [Simple Analytics](https://www.simpleanalytics.com).*
