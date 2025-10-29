@@ -26,7 +26,7 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 [Beliefs, Precautionary Savings and Home Ownership](/files/wps/culture_assets.pdf) <br>
 (with A. Monninger, August 2020) <br>
-[ECB WP](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2457~f88451401b.en.pdf), [VoxEU](https://cepr.org/voxeu/columns/how-portfolios-vary-across-europe-role-beliefs-social-and-communal-insurance), [Media](https://www.finanzen.ch/nachrichten/aktien/studie-deutsche-vertrauen-bei-hauskauf-nicht-auf-hilfe-des-staats-1029530211)
+[ECB WP](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2457~f88451401b.en.pdf), [VoxEU](https://cepr.org/voxeu/columns/how-portfolios-vary-across-europe-role-beliefs-social-and-communal-insurance)
 
 
 ### Work in Progress
@@ -76,9 +76,9 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 [The Impact of Inequality on Property Taxation in Norway](/files/discussions/Borge_Krehic_discussion_JFleck.pdf) (Borge and Krehic, 2021)
 
-[Gender, Electoral Incentives, and Crisis Response: Evidence from Brazilian Mayors](/files/discussions/Chauvin_Tricaud_discussion_JFleck) (Chauvin and Tricaud, 2021)
+[Gender, Electoral Incentives, and Crisis Response: Evidence from Brazilian Mayors](/files/discussions/Chauvin_Tricaud_discussion_JFleck.pdf) (Chauvin and Tricaud, 2021)
 
-[What Drives Tax Policy? Political, Institutional and Economic Determinants of State Tax Policy in the Past 40 Years](/files/discussions/Robinson_Tazhitdinova_discussion_JFleck) (Robinson and Tazhitdinova, 2021)
+[What Drives Tax Policy? Political, Institutional and Economic Determinants of State Tax Policy in the Past 40 Years](/files/discussions/Robinson_Tazhitdinova_discussion_JFleck.pdf) (Robinson and Tazhitdinova, 2021)
 
 [The Effect of Federal Transfers on Subnational Debt: Micro Evidence from Mexico](/files/discussions/Dal_Borgo_questions.pdf) (Dal Borgo, 2020)
 
@@ -95,5 +95,8 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 [Towards the Fiscalization of the European Union? Lessons from the Early United States](/files/discussions/Wozniakowski_comments_JFleck.pdf) (Woźniakowski, 2016)
 
 [Collective Action Clauses and Sovereign Debt Restructuring in the Euro Area](/files/discussions/Martinelli_discussion_JFleck.pdf) (Martinelli, 2015)
+
+
+<br/><br/>
 
 *This website uses [Simple Analytics](https://www.simpleanalytics.com).*
