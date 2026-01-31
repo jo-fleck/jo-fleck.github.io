@@ -32,10 +32,10 @@ My main research interests are macroeconomics and public finance. I am also inte
 ### Research Notes
 
 [Lessons from Brexit on the Effects of Trade Disintegration](https://www.federalreserve.gov/econres/notes/feds-notes/lessons-from-brexit-on-the-effects-of-trade-disintegration-20260116.html)  <br>
-(with F. Airaudo and Kevin Vega, 2026)
+(with F. Airaudo and Kevin Vega, January 2026)
 
 [Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html)  <br>
-(with R. Datsenko, 2024) <br>
+(with R. Datsenko, November 2024) <br>
 [Replication codes](https://github.com/RDatsenko/Country-Specific-Effects-of-Euro-Area-Monetary-Policy-The-Role-of-Sectoral-Differences)
 
 
