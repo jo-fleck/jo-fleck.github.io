@@ -29,6 +29,16 @@ My main research interests are macroeconomics and public finance. I am also inte
 [ECB WP](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2457~f88451401b.en.pdf), [VoxEU](https://cepr.org/voxeu/columns/how-portfolios-vary-across-europe-role-beliefs-social-and-communal-insurance)
 
 
+### Research Notes
+
+[Lessons from Brexit on the Effects of Trade Disintegration](https://www.federalreserve.gov/econres/notes/feds-notes/lessons-from-brexit-on-the-effects-of-trade-disintegration-20260116.html)  <br>
+(with F. Airaudo and Kevin Vega, 2026)
+
+[Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html)  <br>
+(with R. Datsenko, 2024) <br>
+[Replication codes](https://github.com/RDatsenko/Country-Specific-Effects-of-Euro-Area-Monetary-Policy-The-Role-of-Sectoral-Differences)
+
+
 ### Work in Progress
 
 Locked Down, Saved Up? <br>
@@ -40,13 +50,6 @@ Locked Down, Saved Up? <br>
 Machine Learning Missing European Household Wealth
 
 Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
-
-
-### Research Notes
-
-[Country-Specific Effects of Euro-Area Monetary Policy: The Role of Sectoral Differences](https://www.federalreserve.gov/econres/notes/feds-notes/country-specific-effects-of-euro-area-monetary-policy-the-role-of-sectoral-differences-20241112.html)  <br>
-(with R. Datsenko, 2024) <br>
-[Replication codes](https://github.com/RDatsenko/Country-Specific-Effects-of-Euro-Area-Monetary-Policy-The-Role-of-Sectoral-Differences)
 
 
 ### Software
