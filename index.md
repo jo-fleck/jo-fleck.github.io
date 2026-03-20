@@ -11,6 +11,9 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 ### Working Papers
 
+[The Design and Eﬀect of Tariﬀ Retaliation: Evidence from the European Union](https://www.federalreserve.gov/econres/ifdp/files/ifdp1436.pdf) <br>
+(with E. Fisgin and K. Richards, March 2026) <br>
+
 [Fiscal Progressivity of the US Federal and State Governments](/files/wps/FHSV_Oct1_2025.pdf) <br>
 (with J. Heathcote, K. Storesletten, G. Violante, October 2025) <br>
 [Main results](https://github.com/jo-fleck/federal_state_progressivity), [Summary](https://www.minneapolisfed.org/article/2025/measuring-tax-and-transfer-progressivity-state-by-state), [Podcast](https://open.spotify.com/episode/5FGGqbypvxrwajMZdqmya8?si=f9157a4c532e43e0&nd=1&dlsi=e077bd06feff4ac4), [January 2025 version](https://www.nber.org/system/files/working_papers/w33385/w33385.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED), [First version](/files/wps/FHSV_Sept_2021.pdf) 
