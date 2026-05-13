@@ -11,8 +11,9 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 ### Working Papers
 
-[The Design and Eﬀect of Tariﬀ Retaliation: Evidence from the European Union](https://www.federalreserve.gov/econres/ifdp/files/ifdp1436.pdf) <br>
-(with E. Fisgin and K. Richards, March 2026) <br>
+[The Design and Eﬀect of Tariﬀ Retaliation: Evidence from the European Union](/files/wps/EU_tariff_retaliation_Fisgin_Fleck_Richards_May2026.pdf) <br>
+(with E. Fisgin and K. Richards, May 2026) <br>
+[Federal Reserve Board of Governors Discussion Paper](https://www.federalreserve.gov/econres/ifdp/files/ifdp1436.pdf)
 
 [Fiscal Progressivity of the US Federal and State Governments](/files/wps/FHSV_Oct1_2025.pdf) <br>
 (with J. Heathcote, K. Storesletten, G. Violante, October 2025) <br>
