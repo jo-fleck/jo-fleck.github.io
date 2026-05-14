@@ -75,6 +75,8 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 ### Discussions
 
+[COBOLing Together UI Benefits: How Delays in Fiscal Stabilizers Affect Aggregate Consumption](/files/discussions/Navarrete_discussion_JFleck.pdf) (Navarrete, 2026)
+
 [Aggregate Implications of Corporate Taxation over the Business Cycle](/files/discussions/Chen_discussion_Fleck.pdf) (Chen, 2025)
 
 [Contrasting the Local and National Demographic Incidence of Local Labor Demand Shocks](/files/discussions/Fleck_discussion_UEA_2024_final.pdf) (Mansfied, 2024)
