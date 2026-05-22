@@ -35,6 +35,9 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 ### Research Notes
 
+[Population Growth and Labor Market Fragility: Lessons from Domestic and International Experiences](https://www.federalreserve.gov/econres/notes/feds-notes/population-growth-and-labor-market-fragility-lessons-from-domestic-and-international-experiences-20260520.html)  <br>
+(with F. de Soyres, W. Peterman, A. Pradhan, D. Ratner, May 2026)
+
 [Lessons from Brexit on the Effects of Trade Disintegration](https://www.federalreserve.gov/econres/notes/feds-notes/lessons-from-brexit-on-the-effects-of-trade-disintegration-20260116.html)  <br>
 (with F. Airaudo and Kevin Vega, January 2026)
 
@@ -54,23 +57,6 @@ Locked Down, Saved Up? <br>
 Machine Learning Missing European Household Wealth
 
 Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
-
-
-### Software
-
-[gini.jl](https://github.com/jo-fleck/gini_julia) Computing Gini Coefficients in Julia
-
-[Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) Connecting Julia and NBER TAXSIM (version 32) [Video tutorial](https://www.youtube.com/watch?v=dc3iunpMA1o)
-
-[taxsim32_stata.m](https://github.com/jo-fleck/Matlab_Taxsim32_Stata) Connect Matlab to Taxsim32 via Stata
-
-[US_UIBen.m](https://github.com/jo-fleck/US_UIBen) Matlab function to impute unemployment benefits in US states
-
-[textable.m](https://github.com/jo-fleck/textable) Matlab function to export matrices as tex tables
-
-[winsor_moment_preserving.do](https://github.com/jo-fleck/moment_preserving_winsor) Moment Preserving Winsorizing in Stata
-
-[Warming Up to Dynare](/files/Primer_LSM_Dynare.pdf) Flattens the Dynare learning curve
 
 
 ### Discussions
@@ -106,6 +92,24 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 [Towards the Fiscalization of the European Union? Lessons from the Early United States](/files/discussions/Wozniakowski_comments_JFleck.pdf) (Woźniakowski, 2016)
 
 [Collective Action Clauses and Sovereign Debt Restructuring in the Euro Area](/files/discussions/Martinelli_discussion_JFleck.pdf) (Martinelli, 2015)
+
+
+### Software
+
+[gini.jl](https://github.com/jo-fleck/gini_julia) Computing Gini Coefficients in Julia
+
+[Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) Connecting Julia and NBER TAXSIM (version 32) [Video tutorial](https://www.youtube.com/watch?v=dc3iunpMA1o)
+
+[taxsim32_stata.m](https://github.com/jo-fleck/Matlab_Taxsim32_Stata) Connect Matlab to Taxsim32 via Stata
+
+[US_UIBen.m](https://github.com/jo-fleck/US_UIBen) Matlab function to impute unemployment benefits in US states
+
+[textable.m](https://github.com/jo-fleck/textable) Matlab function to export matrices as tex tables
+
+[winsor_moment_preserving.do](https://github.com/jo-fleck/moment_preserving_winsor) Moment Preserving Winsorizing in Stata
+
+[Warming Up to Dynare](/files/Primer_LSM_Dynare.pdf) Flattens the Dynare learning curve
+
 
 <br/>
 
