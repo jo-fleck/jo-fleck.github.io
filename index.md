@@ -61,6 +61,8 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 ### Discussions
 
+[Causal Impact of Public Investment](/files/discussions/Matvejevs_Tkacevs_discussion_JFleck.pdf) (Matvejevs and Tkacevs, 2026)
+
 [COBOLing Together UI Benefits: How Delays in Fiscal Stabilizers Affect Aggregate Consumption](/files/discussions/Navarrete_discussion_JFleck.pdf) (Navarrete, 2026)
 
 [Why do Workers from Low-Earning Backgrounds Earn Less as Adults?](/files/discussions/Hossain_etal_discussion_JFleck.pdf) (Hossain, Nielsen and Slichter, 2025)
