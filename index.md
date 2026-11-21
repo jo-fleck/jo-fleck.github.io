@@ -118,11 +118,9 @@ Interregional Redistribution and Insurance in Heterogeneous Fiscal Federations
 
 <br/>
 
-*This website uses [Simple Analytics](https://www.simpleanalytics.com).*
-
 <a href="https://www.simpleanalytics.com?utm_source=example.com&utm_content=badge" referrerpolicy="origin" target="_blank">
   <img
-    src="https://simpleanalyticsbadges.com/example.com?background=transparent&text=677779&logo=677779&border=677779&radius=3&border-width=1&counter=false"
+    src="https://simpleanalyticsbadges.com/example.com?background=transparent&text=677779&logo=677779&radius=3&counter=false"
     width="168"
     height="40"
     alt="Simple Analytics"
