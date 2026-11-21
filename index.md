@@ -35,6 +35,9 @@ My main research interests are macroeconomics and public finance. I am also inte
 
 ### Research Notes
 
+[Europe’s Natural Gas Outlook for the Upcoming Winter 2026/2027](https://www.federalreserve.gov/econres/notes/feds-notes/europes-natural-gas-outlook-for-the-upcoming-winter-2026-2027-20261120.html)  <br>
+(November 2026)
+
 [Population Growth and Labor Market Fragility: Lessons from Domestic and International Experiences](https://www.federalreserve.gov/econres/notes/feds-notes/population-growth-and-labor-market-fragility-lessons-from-domestic-and-international-experiences-20260520.html)  <br>
 (with F. de Soyres, W. Peterman, A. Pradhan, D. Ratner, May 2026)
 
